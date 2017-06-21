@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\r\n\ A\ class\ for\ handling\ various\ validation\r\n\ (ie.\ file\ validation,\ null\ validation,\ empty\ string\ validation)\r\n\ \r\n\ @author\ (Stefan\ Derian\ Hartono)\ \r\n\ @version\ (19/05/2017)\r\n
+comment1.params=rating\ bottom\ upper
+comment1.target=boolean\ validateBoundary(int,\ int,\ int)
+comment1.text=\r\n\ A\ method\ for\ handling\ rating\ input\r\n\ \r\n\ @param\ \ int\ rating\ \ \ and\ bottom\ and\ upper\ boundary\r\n\ @return\ \ true\ if\ it\ is\ within\ boundary\r\n
+comment2.params=string
+comment2.target=boolean\ validateString(java.lang.String)
+comment2.text=\r\n\ A\ method\ for\ handling\ string\r\n\ \r\n\ @param\ \ string\ to\ be\ validated\r\n\ @return\ \ true\ if\ the\ string\ is\ not\ empty\r\n
+numComments=3

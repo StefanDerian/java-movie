@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FileIO
+comment1.params=file
+comment1.target=FileIO(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FileIO\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFile()
+comment2.text=\r\n\ A\ method\ for\ getting\ file\ string\ path\r\n\ @return\ file\ String\ path\r\n
+comment3.params=file
+comment3.target=void\ setFile(java.lang.String)
+comment3.text=\r\n\ method\ for\ setting\ file\ Path\r\n\ @param\ \ a\ file\ path\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ readFile()
+comment4.text=\r\n\ method\ for\ getting\ file\ output\ in\ a\ form\ of\ ArrayList\ String[]\r\n\ @return\ ArrayList<String[]>\ list\ of\ string\ arrays\ \r\n
+comment5.params=outputString
+comment5.target=void\ writeFile(java.util.ArrayList)
+comment5.text=\r\na\ method\ for\ writing\ movies\ list\ into\ a\ file\r\n@params\ an\ arraylist\ as\ a\ reference\ for\ writing\r\n
+comment6.params=array
+comment6.target=java.lang.String\ toFormat(java.lang.String[])
+numComments=7

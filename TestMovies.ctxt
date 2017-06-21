@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestMovies
+comment1.params=
+comment1.target=TestMovies()
+comment2.params=
+comment2.target=void\ testSetTitle()
+comment3.params=
+comment3.target=void\ testSetDirector()
+comment4.params=
+comment4.target=void\ testSetActors()
+comment5.params=
+comment5.target=void\ testSetRating()
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=UserInput
+comment1.params=param
+comment1.target=java.lang.String\ stringInput(java.lang.String)
+comment1.text=\r\n\ method\ for\ asking\ input\ from\ a\ user\r\n\ @param\ pamameter\ name\ from\ the\ business\ rule\r\n\ @return\ \ \ \ \ the\ input\ string\ from\ the\ user\r\n
+comment2.params=param
+comment2.target=boolean\ booleanInput(java.lang.String)
+comment2.text=\r\n\ method\ for\ asking\ input\ from\ a\ user\ yes\ or\ no\r\n\ @param\ pamameter\ name\ from\ the\ business\ rule\r\n\ @return\ \ \ \ \ the\ booelan\ from\ the\ user\r\n
+comment3.params=param\ bottom\ upper
+comment3.target=int\ integerInput(java.lang.String,\ int,\ int)
+comment3.text=\r\n\ method\ for\ asking\ input\ from\ a\ user\r\n\ @param\ parameter\ name\ from\ the\ business\ rule\r\n\ @return\ \ \ \ \ the\ input\ string\ from\ the\ user\r\n
+comment4.params=param\ size
+comment4.target=java.util.ArrayList\ stringArrayListInput(java.lang.String,\ int)
+comment4.text=\r\n\ method\ for\ asking\ strings\ input\ from\ a\ user\r\n\ @param\ parameter\ name\ from\ the\ business\ rule,\ fixed\ size\ of\ an\ array\r\n\ @return\ \ \ \ \ string\ array\ as\ an\ output\ from\ a\ user\r\n
+numComments=5
